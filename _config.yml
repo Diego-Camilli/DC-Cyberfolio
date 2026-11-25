@@ -4,7 +4,7 @@ email: camillidiego011@gmail.com
 url: https://Diego-Camilli.github.io/DC-Cyberfolio
 description: "Portfolio of cybersecurity work samples for a junior-level cyber security professional."
 keywords: "cybersecurity, cyber, security, portfolio, tech"
-skills: "Cybersecurity - Analyst - Computer Forensics"
+skills: "Cybersecurity - Analyst - Programmer"
 meta_author: Camilli Diego
 
 # Google webmaster tools
@@ -25,9 +25,9 @@ disqus_shortname:
 
 # Color settings (hex-codes without the leading hash-tag)
 color:
-  primary: 007ea7 #80B3FF
+  primary: 003459 #80B3FF
   primary-rgb: "255,255,255" #"128,179,255"
-  secondary: 003459 #FD6E8A
+  secondary: 007ea7 #FD6E8A
   secondary-dark: 00171f #A2122F
 
 # Footer settings
